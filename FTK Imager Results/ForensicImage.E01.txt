@@ -1,0 +1,50 @@
+﻿Created By AccessData® FTK® Imager 3.3.0.5 
+
+Case Information: 
+Acquired using: ADI3.3.0.5
+Case Number: 001
+Evidence Number: 001
+Unique Description: 
+Examiner: Prince Desmond Addo Amanor
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\amano\Desktop\Evidence\ForensicImage:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 5,221
+ Heads: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 83,886,080
+[Physical Drive Information]
+ Drive Interface Type: lsilogic
+[Image]
+ Image Type: VMWare Virtual Disk
+ Source data size: 40960 MB
+ Sector count:    83886080
+[Computed Hashes]
+ MD5 checksum:    aca4ed3fc6992c5e4d7712afa4baf2a4
+ SHA1 checksum:   ef9206a6c292d5f8438bcca5680c29c3581cd59a
+
+Image Information:
+ Acquisition started:   Tue Jul 28 19:00:53 2026
+ Acquisition finished:  Tue Jul 28 19:08:48 2026
+ Segment list:
+  C:\Users\amano\Desktop\Evidence\ForensicImage.E01
+  C:\Users\amano\Desktop\Evidence\ForensicImage.E02
+  C:\Users\amano\Desktop\Evidence\ForensicImage.E03
+  C:\Users\amano\Desktop\Evidence\ForensicImage.E04
+  C:\Users\amano\Desktop\Evidence\ForensicImage.E05
+  C:\Users\amano\Desktop\Evidence\ForensicImage.E06
+  C:\Users\amano\Desktop\Evidence\ForensicImage.E07
+
+Image Verification Results:
+ Verification started:  Tue Jul 28 19:08:48 2026
+ Verification finished: Tue Jul 28 19:13:52 2026
+ MD5 checksum:    aca4ed3fc6992c5e4d7712afa4baf2a4 : verified
+ SHA1 checksum:   ef9206a6c292d5f8438bcca5680c29c3581cd59a : verified
